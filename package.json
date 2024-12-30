@@ -1,5 +1,5 @@
 {
-  "name": "aero",
+  "name": "@byalashhab/aero",
   "version": "1.0.0",
   "description": "Tiny package for interacting with csv files",
   "main": "index.js",

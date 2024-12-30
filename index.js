@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const path = __filename.slice(0, __filename.length - 26);
+const path = __filename.slice(0, __filename.length - 39);
 
 class Aero {
   async New(name, headers, data) {
